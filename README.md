@@ -1,4 +1,4 @@
-# Inside the Superstore
+# Inside the Superstore: An Analysis of Sales and Profitability
 
 **A sales and profit analysis of the Superstore dataset using MySQL and Tableau**
 
