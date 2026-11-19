@@ -4,7 +4,7 @@
 
 ![Dashboard preview](dashboard/dashboard_preview.png)
 
-🔗 **[View the interactive dashboard on Tableau Public](ADD-YOUR-TABLEAU-PUBLIC-LINK-HERE)**
+🔗 **[View the interactive dashboard on Tableau Public](https://public.tableau.com:9443/views/03_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
