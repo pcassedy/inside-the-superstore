@@ -4,7 +4,7 @@
 
 ![Dashboard preview](dashboard/dashboard_preview.png)
 
-🔗 **[View the interactive dashboard on Tableau Public](https://public.tableau.com:9443/views/03_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/03_dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -64,6 +64,7 @@ The data covers **January 2023 to December 2026**, with 5,111 orders, 804 custom
 **5. Dashboard.** Built a one-page Tableau dashboard with a year selector that updates every chart.
 
 ## Key Findings
+**[Read the full findings](https://github.com/pcassedy/inside-the-superstore/blob/59032a5b18285a401f0060a2985f46f44850d684/other%20files/Findings.pdf)**
 
 **1. Sales and profit over time.** From 2023 to 2026, sales grew by 51%, orders by 73%, and profit by 86%. However, 2026 was the only year where profit grew more slowly than sales, and the margin dropped from 13.5% to 12.9%. September, November, and December were the strongest months every year.
 
@@ -80,6 +81,7 @@ The data covers **January 2023 to December 2026**, with 5,111 orders, 804 custom
 **7. Losses from deep discounts.** Sales discounted above 20% lost the store $136.0K, equal to almost half of the store's total profit, and accounted for 88.6% of all losses. Tables, Machines, and Bookcases were all profitable when discounted at 20% or less.
 
 ## Recommendations
+**[Read the full recommendations](https://github.com/pcassedy/inside-the-superstore/blob/59032a5b18285a401f0060a2985f46f44850d684/other%20files/Recommendations.pdf)**
 
 **1. Limit discounts to a maximum of 20%.** Sales discounted above 20% caused 88.6% of all losses. Superstore should set 20% as the standard maximum discount, with deeper discounts requiring managerial approval, starting with Binders, Tables, and Machines, which accounted for about 73% of these losses.
 
