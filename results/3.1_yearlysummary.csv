@@ -1,0 +1,5 @@
+order_year,total_orders,total_sales,total_profit,profit_margin_pct,sales_growth_pct,profit_growth_pct
+2023,995,493659.72,51660.94,10.46,NULL,NULL
+2024,1053,472993.03,62020.97,13.11,-4.19,20.05
+2025,1340,613933.58,82665.20,13.46,29.80,33.29
+2026,1723,745567.53,95926.35,12.87,21.44,16.04
